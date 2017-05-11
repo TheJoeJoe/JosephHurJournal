@@ -23,3 +23,16 @@ Game will be lost if cure is finished.
 cure will heal people will no longer be sick.
 What to do tomorrow-
 figure out all booleans and come up with numerical rates.
+ 
+Day 4(5/9/17):
+Had AP BC calc
+
+Day 5(5/10/17):
+Had Ap macro
+
+Day 6(5/11/17):
+Started making methods isDetected, makingCure, and finishedCure
+Created variables and booleans to help determine cure making process
+What to do tomorrow-
+To keep working on the methods isDetected, makingCure, and finishedCure
+Start making ways to have people who are infected to be healed by the cure
