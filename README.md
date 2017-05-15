@@ -28,7 +28,7 @@ Day 4(5/9/17):
 Had AP BC calc
 
 Day 5(5/10/17):
-Had Ap macro
+Had AP macro
 
 Day 6(5/11/17):
 Started making methods isDetected, makingCure, and finishedCure
@@ -36,3 +36,9 @@ Created variables and booleans to help determine cure making process
 What to do tomorrow-
 To keep working on the methods isDetected, makingCure, and finishedCure
 Start making ways to have people who are infected to be healed by the cure
+
+Day 7(5/12/17): 
+Absent
+
+Day 8(5/15/17):
+
