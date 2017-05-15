@@ -41,4 +41,8 @@ Day 7(5/12/17):
 Absent
 
 Day 8(5/15/17):
-
+Started the timer(sleeper) class.
+Is able to determine when the cure starts being made.
+What to do tomorrow-
+Make a timer and rate for cure being made.
+Need a text label to display current day, month, and year.
