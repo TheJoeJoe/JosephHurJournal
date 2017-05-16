@@ -46,3 +46,10 @@ Is able to determine when the cure starts being made.
 What to do tomorrow-
 Make a timer and rate for cure being made.
 Need a text label to display current day, month, and year.
+
+Day 9(5/16/17):
+Made the timer(sleeper) class calculate day, month, and year, but does not display the information succesfully.
+Started working on curescreen and demoscreen to display cure process with Ivan.
+What to do tomorrow-
+get timer(sleeper) class to dispaly
+continue working on screen
