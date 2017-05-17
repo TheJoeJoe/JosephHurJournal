@@ -53,3 +53,9 @@ Started working on curescreen and demoscreen to display cure process with Ivan.
 What to do tomorrow-
 get timer(sleeper) class to dispaly
 continue working on screen
+
+Day 10(5/17/17):
+was able to display day, month, and year correctly
+made a base rate for the cure which is able to change depending on the number of infected people.
+What to do tomorrow-
+make the prediction of how long it will take the cure to be completed due to the current rate
