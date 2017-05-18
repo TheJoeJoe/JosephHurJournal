@@ -59,3 +59,8 @@ was able to display day, month, and year correctly
 made a base rate for the cure which is able to change depending on the number of infected people.
 What to do tomorrow-
 make the prediction of how long it will take the cure to be completed due to the current rate
+
+Day 11(5/18/17):
+can calculate only the amount of years it will take for the cures will be finished.
+What to do tomorrow-
+calculate years, days and months it will take for cure to be finished
