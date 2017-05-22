@@ -69,3 +69,6 @@ Day 12(5/19/17):
 Absent
 
 Day 13(5/22/17):
+worked on the makingcure function
+What to do tomorrow-
+need to take into account the amount of the cure that has already been completed in determing how long it takes the cure to be finished.
