@@ -72,3 +72,8 @@ Day 13(5/22/17):
 worked on the makingcure function
 What to do tomorrow-
 need to take into account the amount of the cure that has already been completed in determing how long it takes the cure to be finished.
+
+Day 14(5/23/17):
+The makingcure function calculates the amount of time it will take for the cure to be finished depending on the rate at which the cure is being produced at a given time.
+What to do tomorrow-
+Once the cure is completed have the cure be spread to the remain alive infected population to have them cured.
