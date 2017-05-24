@@ -76,4 +76,9 @@ need to take into account the amount of the cure that has already been completed
 Day 14(5/23/17):
 The makingcure function calculates the amount of time it will take for the cure to be finished depending on the rate at which the cure is being produced at a given time.
 What to do tomorrow-
-Once the cure is completed have the cure be spread to the remain alive infected population to have them cured.
+Once the cure is completed have the cure be spread to the remaining alive infected population to have them cured.
+
+Day 15(5/24/17):
+Debugged the makingcure function, didnt work at certain rates.  Also started working on spreadCure.
+What to do tomorrow-
+work on making news and game ending conditions
