@@ -82,3 +82,7 @@ Day 15(5/24/17):
 Debugged the makingcure function, didnt work at certain rates.  Also started working on spreadCure.
 What to do tomorrow-
 work on making news and game ending conditions
+
+Day 16(5/25/17):
+Made a bar graph which displays the percentage at which the cure is completed.  Kinda of like a progress bar to visualy represent how much of the cure has been made percentage wise.  Debugged the screens and made it easy to position relative to the other screens that would be placed on top of each other.  
+What to do tomorrow-Put the percent number in the center of the bar graph
