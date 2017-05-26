@@ -89,3 +89,6 @@ What to do tomorrow-
 Put the percent number in the center of the bar graph.
 
 Day 17(5/26/17):
+Made different types of news making different events happen which rotate through a cycle.
+What to do tomorrow-
+Start getting these numbers and news to display on the screen.
