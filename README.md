@@ -92,3 +92,8 @@ Day 17(5/26/17):
 Made different types of news making different events happen which rotate through a cycle.
 What to do tomorrow-
 Start getting these numbers and news to display on the screen.
+
+Day 18(5/30/17):
+Ivan and I tried to print the sleeper class in the cureDemo to show the numbers on the screen.
+What to do tomorrow- 
+work on the screen.
