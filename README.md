@@ -97,3 +97,8 @@ Day 18(5/30/17):
 Ivan and I tried to print the sleeper class in the cureDemo to show the numbers on the screen.
 What to do tomorrow- 
 work on the screen.
+
+Day 19(5/31/17):
+Was able to run the screen class and the timer at the same time.  There was conflict before since it was stuck in a never ending loop of the timer.
+What to do tomorrow- 
+get the days, months, and years to print on the screen.
