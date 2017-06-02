@@ -102,3 +102,11 @@ Day 19(5/31/17):
 Was able to run the screen class and the timer at the same time.  There was conflict before since it was stuck in a never ending loop of the timer.
 What to do tomorrow- 
 get the days, months, and years to print on the screen.
+
+Day 20(6/1/17):
+Absent
+
+Day 21(6/2/17):
+Ivan and I have succesfully displayed the days, months, and years and a pie chart that displays the correct percentage of the cure that has been made.  These items update on the screen making it display the correct information.   
+What to do tomorrow-
+Have the progress bar update correctly on the screen.
