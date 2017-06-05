@@ -110,3 +110,8 @@ Day 21(6/2/17):
 Ivan and I have succesfully displayed the days, months, and years and a pie chart that displays the correct percentage of the cure that has been made.  These items update on the screen making it display the correct information.   
 What to do tomorrow-
 Have the progress bar update correctly on the screen.
+
+Day 22(6/5/17):
+Worked on the progress bar and got the sleeper class on the main screen.
+What to do tomorrow-
+Make the cure screen visually appealing.
