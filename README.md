@@ -115,3 +115,8 @@ Day 22(6/5/17):
 Worked on the progress bar and got the sleeper class on the main screen.
 What to do tomorrow-
 Make the cure screen visually appealing.
+
+Day 23(6/6/17):
+Made a pie graph which shows the amount of the total population which is alive, dead, and infected.  Made a win and lose condition depending on the infected population.
+What to do tomorrow- 
+Keep working on the cure screen.
