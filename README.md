@@ -120,3 +120,7 @@ Day 23(6/6/17):
 Made a pie graph which shows the amount of the total population which is alive, dead, and infected.  Made a win and lose condition depending on the infected population.
 What to do tomorrow- 
 Keep working on the cure screen.
+
+Day 24(6/7/17):
+Tried to make a way to pause the sleeper class.  When the user isnt looking at the home screen, but at the cure screen, the game should temporarily stop.
+What to do tomorrow- get the sleeper class to succesfully pause and resume on command.
